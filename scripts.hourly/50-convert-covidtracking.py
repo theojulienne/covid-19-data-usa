@@ -79,5 +79,5 @@ for state, subseries in state_data.items():
         else:
             del state_data['total'][total_name]
 
-    with open('by_state/' + state + '.json', 'w') as f:
+    with open('by_state/' + state.lower() + '.json', 'w') as f:
         json.dump(state_data, f, indent=2)
