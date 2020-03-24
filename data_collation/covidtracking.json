@@ -57,12 +57,12 @@
   {
     "date": 20200324,
     "state": "CA",
-    "positive": 1733,
-    "negative": 12567,
+    "positive": 2102,
+    "negative": 13452,
     "pending": 12100,
     "hospitalized": null,
-    "death": 27,
-    "total": 26400,
+    "death": 40,
+    "total": 27654,
     "dateChecked": "2020-03-24T20:00:00Z"
   },
   {
