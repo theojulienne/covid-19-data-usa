@@ -69,6 +69,7 @@ for state, subseries in state_data.items():
             'confirmed': subseries['positive'],
             'tested': sum_series(subseries['positive'], subseries['negative'], subseries['pending']),
             'hospitalized': subseries['hospitalized'],
+            'deaths': subseries['death'],
         }
     }
 
