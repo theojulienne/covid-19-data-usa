@@ -95,11 +95,11 @@
     "total": 77786,
     "dateChecked": "2020-03-26T20:00:00Z",
     "totalTestResults": 20386,
-    "deathIncrease": 25,
+    "deathIncrease": 12,
     "hospitalizedIncrease": 0,
-    "negativeIncrease": 3928,
-    "positiveIncrease": 904,
-    "totalTestResultsIncrease": 4832
+    "negativeIncrease": 1459,
+    "positiveIncrease": 651,
+    "totalTestResultsIncrease": 2110
   },
   {
     "date": 20200326,
@@ -1039,19 +1039,19 @@
   {
     "date": 20200325,
     "state": "CA",
-    "positive": 2102,
-    "negative": 13452,
-    "pending": 12100,
+    "positive": 2355,
+    "negative": 15921,
+    "pending": 48600,
     "hospitalized": null,
-    "death": 40,
-    "total": 27654,
+    "death": 53,
+    "total": 66876,
     "dateChecked": "2020-03-25T20:00:00Z",
-    "totalTestResults": 15554,
-    "deathIncrease": 0,
+    "totalTestResults": 18276,
+    "deathIncrease": 13,
     "hospitalizedIncrease": 0,
-    "negativeIncrease": 0,
-    "positiveIncrease": 0,
-    "totalTestResultsIncrease": 0
+    "negativeIncrease": 2469,
+    "positiveIncrease": 253,
+    "totalTestResultsIncrease": 2722
   },
   {
     "date": 20200325,
@@ -1237,8 +1237,8 @@
     "deathIncrease": 3,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 2410,
-    "positiveIncrease": 314,
-    "totalTestResultsIncrease": 2724
+    "positiveIncrease": 330,
+    "totalTestResultsIncrease": 2740
   },
   {
     "date": 20200325,
@@ -2178,19 +2178,19 @@
   {
     "date": 20200324,
     "state": "IL",
-    "positive": 1551,
+    "positive": 1535,
     "negative": 9934,
     "pending": null,
     "hospitalized": null,
     "death": 16,
-    "total": 11485,
+    "total": 11469,
     "dateChecked": "2020-03-24T20:00:00Z",
-    "totalTestResults": 11485,
+    "totalTestResults": 11469,
     "deathIncrease": 4,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 1351,
-    "positiveIncrease": 266,
-    "totalTestResultsIncrease": 1617
+    "positiveIncrease": 262,
+    "totalTestResultsIncrease": 1613
   },
   {
     "date": 20200324,
@@ -3130,19 +3130,19 @@
   {
     "date": 20200323,
     "state": "IL",
-    "positive": 1285,
+    "positive": 1273,
     "negative": 8583,
     "pending": null,
     "hospitalized": null,
     "death": 12,
-    "total": 9868,
+    "total": 9856,
     "dateChecked": "2020-03-23T20:00:00Z",
-    "totalTestResults": 9868,
+    "totalTestResults": 9856,
     "deathIncrease": 3,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 1312,
-    "positiveIncrease": 227,
-    "totalTestResultsIncrease": 1539
+    "positiveIncrease": 224,
+    "totalTestResultsIncrease": 1536
   },
   {
     "date": 20200323,
@@ -4082,19 +4082,19 @@
   {
     "date": 20200322,
     "state": "IL",
-    "positive": 1058,
+    "positive": 1049,
     "negative": 7271,
     "pending": null,
     "hospitalized": null,
     "death": 9,
-    "total": 8329,
+    "total": 8320,
     "dateChecked": "2020-03-22T20:00:00Z",
-    "totalTestResults": 8329,
+    "totalTestResults": 8320,
     "deathIncrease": 3,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 1783,
-    "positiveIncrease": 299,
-    "totalTestResultsIncrease": 2082
+    "positiveIncrease": 296,
+    "totalTestResultsIncrease": 2079
   },
   {
     "date": 20200322,
@@ -5034,19 +5034,19 @@
   {
     "date": 20200321,
     "state": "IL",
-    "positive": 759,
+    "positive": 753,
     "negative": 5488,
     "pending": null,
     "hospitalized": null,
     "death": 6,
-    "total": 6247,
+    "total": 6241,
     "dateChecked": "2020-03-21T20:00:00Z",
-    "totalTestResults": 6247,
+    "totalTestResults": 6241,
     "deathIncrease": 1,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 1792,
-    "positiveIncrease": 169,
-    "totalTestResultsIncrease": 1961
+    "positiveIncrease": 168,
+    "totalTestResultsIncrease": 1960
   },
   {
     "date": 20200321,
@@ -5986,19 +5986,19 @@
   {
     "date": 20200320,
     "state": "IL",
-    "positive": 590,
+    "positive": 585,
     "negative": 3696,
     "pending": null,
     "hospitalized": null,
     "death": 5,
-    "total": 4286,
+    "total": 4281,
     "dateChecked": "2020-03-20T20:00:00Z",
-    "totalTestResults": 4286,
+    "totalTestResults": 4281,
     "deathIncrease": 1,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 971,
-    "positiveIncrease": 164,
-    "totalTestResultsIncrease": 1135
+    "positiveIncrease": 163,
+    "totalTestResultsIncrease": 1134
   },
   {
     "date": 20200320,
@@ -6938,19 +6938,19 @@
   {
     "date": 20200319,
     "state": "IL",
-    "positive": 426,
+    "positive": 422,
     "negative": 2725,
     "pending": null,
     "hospitalized": null,
     "death": 4,
-    "total": 3151,
+    "total": 3147,
     "dateChecked": "2020-03-19T20:00:00Z",
-    "totalTestResults": 3151,
+    "totalTestResults": 3147,
     "deathIncrease": 3,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 962,
-    "positiveIncrease": 137,
-    "totalTestResultsIncrease": 1099
+    "positiveIncrease": 134,
+    "totalTestResultsIncrease": 1096
   },
   {
     "date": 20200319,
@@ -7890,19 +7890,19 @@
   {
     "date": 20200318,
     "state": "IL",
-    "positive": 289,
+    "positive": 288,
     "negative": 1763,
     "pending": null,
     "hospitalized": null,
     "death": 1,
-    "total": 2052,
+    "total": 2051,
     "dateChecked": "2020-03-18T20:00:00Z",
-    "totalTestResults": 2052,
+    "totalTestResults": 2051,
     "deathIncrease": 0,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 423,
-    "positiveIncrease": 129,
-    "totalTestResultsIncrease": 552
+    "positiveIncrease": 128,
+    "totalTestResultsIncrease": 551
   },
   {
     "date": 20200318,
