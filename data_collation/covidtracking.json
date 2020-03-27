@@ -9787,9 +9787,9 @@
     "totalTestResults": 270,
     "deathIncrease": 0,
     "hospitalizedIncrease": 0,
-    "negativeIncrease": 94,
+    "negativeIncrease": 91,
     "positiveIncrease": 0,
-    "totalTestResultsIncrease": 94
+    "totalTestResultsIncrease": 91
   },
   {
     "date": 20200316,
@@ -10696,18 +10696,18 @@
     "date": 20200315,
     "state": "ID",
     "positive": 5,
-    "negative": 171,
+    "negative": 174,
     "pending": null,
     "hospitalized": null,
     "death": null,
-    "total": 176,
+    "total": 179,
     "dateChecked": "2020-03-15T20:00:00Z",
-    "totalTestResults": 176,
+    "totalTestResults": 179,
     "deathIncrease": 0,
     "hospitalizedIncrease": 0,
-    "negativeIncrease": -3,
+    "negativeIncrease": 0,
     "positiveIncrease": 3,
-    "totalTestResultsIncrease": 0
+    "totalTestResultsIncrease": 3
   },
   {
     "date": 20200315,
