@@ -14151,8 +14151,8 @@
     "deathIncrease": 0,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 423,
-    "positiveIncrease": 260,
-    "totalTestResultsIncrease": 683
+    "positiveIncrease": 129,
+    "totalTestResultsIncrease": 552
   },
   {
     "date": 20200318,
@@ -15202,21 +15202,21 @@
   {
     "date": 20200317,
     "state": "IL",
-    "positive": 28,
+    "positive": 159,
     "negative": 1340,
     "pending": null,
     "hospitalized": null,
     "death": 1,
-    "total": 1368,
-    "hash": "8fbc84a92d3edf31466afdf8c414307bb9e18fbd",
+    "total": 1499,
+    "hash": "926d51e35b4953484b534264a05d2e3d469a443c",
     "dateChecked": "2020-03-17T20:00:00Z",
-    "totalTestResults": 1368,
+    "totalTestResults": 1499,
     "fips": "17",
     "deathIncrease": 1,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 408,
-    "positiveIncrease": -65,
-    "totalTestResultsIncrease": 343
+    "positiveIncrease": 66,
+    "totalTestResultsIncrease": 474
   },
   {
     "date": 20200317,
