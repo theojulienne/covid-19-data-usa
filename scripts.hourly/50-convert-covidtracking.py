@@ -47,7 +47,7 @@ for row in covid_tracking_data:
     date_index = global_dates.index(str(sample_date))
 
     for sample in ['positive', 'negative', 'pending', 'hospitalized', 'death', 'total']:
-        state_data[state][sample][date_index] = row[sample]
+        state_data[state][sample][date_index] = row.get(sample, None)
 
 def strip_trailing_none(s):
     new_s = s[:]
