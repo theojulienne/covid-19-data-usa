@@ -83,7 +83,7 @@
   {
     "date": 20200403,
     "state": "AS",
-    "positive": 0,
+    "positive": null,
     "negative": 20,
     "pending": 6,
     "hospitalizedCurrently": null,
@@ -93,7 +93,7 @@
     "onVentilatorCurrently": null,
     "onVentilatorCumulative": null,
     "recovered": null,
-    "hash": "f43a709f7d30b98ce7a5c9f5c40e0a92ed6ec2b1",
+    "hash": "3933c4281d22f25174ba2730269589d9da9bc026",
     "dateChecked": "2020-04-03T20:00:00Z",
     "death": 0,
     "hospitalized": null,
