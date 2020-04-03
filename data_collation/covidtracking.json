@@ -1777,8 +1777,8 @@
     "deathIncrease": 1,
     "hospitalizedIncrease": -7,
     "negativeIncrease": 319,
-    "positiveIncrease": -38,
-    "totalTestResultsIncrease": 281
+    "positiveIncrease": 49,
+    "totalTestResultsIncrease": 368
   },
   {
     "date": 20200401,
@@ -3256,7 +3256,7 @@
   {
     "date": 20200331,
     "state": "DE",
-    "positive": 406,
+    "positive": 319,
     "negative": 3696,
     "pending": null,
     "hospitalizedCurrently": 57,
@@ -3266,19 +3266,19 @@
     "onVentilatorCurrently": null,
     "onVentilatorCumulative": null,
     "recovered": 22,
-    "hash": "a42482f541e17f90c263af1075357ccfe1e22b20",
+    "hash": "0c6d62603ac04630bbfa9dc6e129f4f9d58307d5",
     "dateChecked": "2020-03-31T20:00:00Z",
     "death": 10,
     "hospitalized": 64,
-    "total": 4102,
-    "totalTestResults": 4102,
-    "posNeg": 4102,
+    "total": 4015,
+    "totalTestResults": 4015,
+    "posNeg": 4015,
     "fips": "10",
     "deathIncrease": 4,
     "hospitalizedIncrease": 19,
     "negativeIncrease": 1480,
-    "positiveIncrease": 142,
-    "totalTestResultsIncrease": 1622
+    "positiveIncrease": 55,
+    "totalTestResultsIncrease": 1535
   },
   {
     "date": 20200331,
