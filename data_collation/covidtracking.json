@@ -11901,9 +11901,9 @@
     "fips": "49",
     "deathIncrease": 0,
     "hospitalizedIncrease": 6,
-    "negativeIncrease": 3011,
+    "negativeIncrease": 2847,
     "positiveIncrease": 172,
-    "totalTestResultsIncrease": 3183
+    "totalTestResultsIncrease": 3019
   },
   {
     "date": 20200403,
@@ -13393,7 +13393,7 @@
     "date": 20200402,
     "state": "UT",
     "positive": 1074,
-    "negative": 19991,
+    "negative": 20155,
     "pending": null,
     "hospitalizedCurrently": null,
     "hospitalizedCumulative": 100,
@@ -13402,19 +13402,19 @@
     "onVentilatorCurrently": null,
     "onVentilatorCumulative": null,
     "recovered": null,
-    "hash": "c52cf5f5cbc216f45b25fcef2adf90f644c2b052",
+    "hash": "ae818e14f015da994e59de550caffbe290355ea3",
     "dateChecked": "2020-04-02T20:00:00Z",
     "death": 7,
     "hospitalized": 100,
-    "total": 21065,
-    "totalTestResults": 21065,
-    "posNeg": 21065,
+    "total": 21229,
+    "totalTestResults": 21229,
+    "posNeg": 21229,
     "fips": "49",
     "deathIncrease": 0,
     "hospitalizedIncrease": 9,
-    "negativeIncrease": -164,
+    "negativeIncrease": 0,
     "positiveIncrease": 62,
-    "totalTestResultsIncrease": -102
+    "totalTestResultsIncrease": 62
   },
   {
     "date": 20200402,
@@ -26664,8 +26664,8 @@
     "deathIncrease": 0,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 546,
-    "positiveIncrease": -1,
-    "totalTestResultsIncrease": 545
+    "positiveIncrease": 0,
+    "totalTestResultsIncrease": 546
   },
   {
     "date": 20200324,
@@ -28060,7 +28060,7 @@
   {
     "date": 20200323,
     "state": "SC",
-    "positive": 299,
+    "positive": 298,
     "negative": 1466,
     "pending": null,
     "hospitalizedCurrently": null,
@@ -28070,19 +28070,19 @@
     "onVentilatorCurrently": null,
     "onVentilatorCumulative": null,
     "recovered": null,
-    "hash": "33a15e3a79d4ed06c2d35f85b493ce03724ecf6d",
+    "hash": "6065c53119b350f0a5abc09e33240e8344459d65",
     "dateChecked": "2020-03-23T20:00:00Z",
     "death": 5,
     "hospitalized": null,
-    "total": 1765,
-    "totalTestResults": 1765,
-    "posNeg": 1765,
+    "total": 1764,
+    "totalTestResults": 1764,
+    "posNeg": 1764,
     "fips": "45",
     "deathIncrease": 2,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 0,
-    "positiveIncrease": 104,
-    "totalTestResultsIncrease": 104
+    "positiveIncrease": 103,
+    "totalTestResultsIncrease": 103
   },
   {
     "date": 20200323,
