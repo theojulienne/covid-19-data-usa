@@ -12019,8 +12019,8 @@
     "deathIncrease": 0,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 462,
-    "positiveIncrease": -59,
-    "totalTestResultsIncrease": 403
+    "positiveIncrease": 8,
+    "totalTestResultsIncrease": 470
   },
   {
     "date": 20200410,
@@ -13510,7 +13510,7 @@
   {
     "date": 20200410,
     "state": "WY",
-    "positive": 320,
+    "positive": 253,
     "negative": 4736,
     "pending": null,
     "hospitalizedCurrently": null,
@@ -13520,19 +13520,19 @@
     "onVentilatorCurrently": null,
     "onVentilatorCumulative": null,
     "recovered": 105,
-    "hash": "56031032dfee2e1640993e66764150655694c0a6",
+    "hash": "542f22512141736619d47feb0b66d9539e12bb4e",
     "dateChecked": "2020-04-10T20:00:00Z",
     "death": 0,
     "hospitalized": 37,
-    "total": 5056,
-    "totalTestResults": 5056,
-    "posNeg": 5056,
+    "total": 4989,
+    "totalTestResults": 4989,
+    "posNeg": 4989,
     "fips": "56",
     "deathIncrease": 0,
     "hospitalizedIncrease": 3,
     "negativeIncrease": 816,
-    "positiveIncrease": 90,
-    "totalTestResultsIncrease": 906
+    "positiveIncrease": 23,
+    "totalTestResultsIncrease": 839
   },
   {
     "date": 20200409,
