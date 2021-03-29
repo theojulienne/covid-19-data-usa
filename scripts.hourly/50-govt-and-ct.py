@@ -74,10 +74,10 @@ for state in us_states:
                 new_value += state_data['total'][field][-1]
             state_data['total'][field].append(new_value)
     
-    # if we don't want to include nulls at the end, but it might be fine
-    # for field in state_data['total'].keys():
-    #     while state_data['total'][field][-1] is None:
-    #         state_data['total'][field].pop()
+    while state_data['total']['confirmed'][-1] is None:
+        for field in state_data['total'].keys():
+            state_data['total'][field].pop()
+        state_data['timeseries_dates'].pop()
     
     with open('by_state/' + state.lower() + '.json', 'w') as f:
         json.dump(state_data, f, indent=2)
