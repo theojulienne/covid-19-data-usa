@@ -65,6 +65,15 @@ for state in us_states:
 
     state_data['timeseries_dates'] = global_dates
 
+    # patch old dates
+    for i, govt_date in enumerate(global_dates[:govt_first_date_index]):
+        for field in ['confirmed', 'deaths', 'tested']:
+            if field not in state_data['total']: continue # skip fields that covidtracking didn't have for now
+            new_value = govt_state_data[state][field].get(govt_date, None)
+            if new_value is not None and len(state_data['total'][field]) > i:
+                state_data['total'][field][i] = new_value
+
+    # append new dates
     for govt_date in global_dates[govt_first_date_index:]:
         for field in ['confirmed', 'deaths', 'tested', 'hospitalized']:
             if field not in state_data['total']: continue # skip fields that covidtracking didn't have for now
